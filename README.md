@@ -2,6 +2,32 @@
 
 DevConnect é um aplicativo Android inspirado no LinkedIn, especificamente projetado para desenvolvedores compartilharem seus projetos, conectarem-se com outros profissionais e construírem sua presença online na comunidade de desenvolvimento.
 
+## 🚀 Versões Disponíveis
+
+### 📱 Android App
+Aplicativo nativo Android com todas as funcionalidades principais.
+
+### 🌐 Versão Web
+Versão web completa disponível em: https://work-1-illugahcqqczaibm.prod-runtime.all-hands.dev
+
+## 🔧 Correções Recentes (v1.1)
+
+### ✅ Compatibilidade Android Corrigida
+- **Gradle 8.5**: Atualizado para compatibilidade com Java 21
+- **Android Gradle Plugin 8.2.0**: Versão mais recente
+- **Kotlin 1.9.20**: Suporte aprimorado
+- **Java 17**: Target compatível com Java 21
+- **API Level 35**: compileSdk e targetSdk atualizados
+
+### 🌐 Nova Versão Web Implementada
+- **SPA Completa**: Single Page Application responsiva
+- **Design Material**: Interface moderna com gradientes
+- **Responsivo**: Funciona em desktop, tablet e mobile
+- **LocalStorage**: Persistência de dados no navegador
+- **Autenticação**: Sistema completo de login/cadastro
+- **Projetos**: Criação e gerenciamento de projetos
+- **Premium**: Sistema de upgrade premium
+
 ## 📱 Funcionalidades
 
 ### Funcionalidades Principais
