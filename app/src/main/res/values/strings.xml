@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DevConnect</string>
+    
+    <!-- Login Screen -->
+    <string name="welcome_back">Bem-vindo de volta</string>
+    <string name="login">Entrar</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="email_hint">dev@email.com</string>
+    <string name="password_hint">••••••••</string>
+    <string name="no_account">Não tem conta?</string>
+    <string name="register_link">Cadastre-se</string>
+    
+    <!-- Register Screen -->
+    <string name="create_account">Crie sua conta</string>
+    <string name="register">Cadastrar</string>
+    <string name="username">Username</string>
+    <string name="full_name">Nome completo (opcional)</string>
+    <string name="username_hint">seu_username</string>
+    <string name="full_name_hint">Seu Nome</string>
+    <string name="create_account_btn">Criar conta</string>
+    <string name="already_have_account">Já tem conta?</string>
+    <string name="login_link">Entre</string>
+    
+    <!-- Main Screen -->
+    <string name="recent">Recentes</string>
+    <string name="popular">Populares</string>
+    <string name="new_project">Novo Projeto</string>
+    <string name="no_projects_yet">Nenhum projeto ainda</string>
+    <string name="be_first_to_share">Seja o primeiro a compartilhar um projeto!</string>
+    <string name="create_project">Criar Projeto</string>
+    
+    <!-- Create Project Screen -->
+    <string name="new_project_title">Novo Projeto</string>
+    <string name="share_work_community">Compartilhe seu trabalho com a comunidade</string>
+    <string name="back">Voltar</string>
+    <string name="project_title">Título do projeto</string>
+    <string name="project_title_hint">Meu projeto incrível</string>
+    <string name="description">Descrição</string>
+    <string name="description_hint">Descreva seu projeto, o problema que ele resolve, tecnologias utilizadas...</string>
+    <string name="image_url">URL da imagem/screenshot</string>
+    <string name="image_url_hint">https://exemplo.com/imagem.png</string>
+    <string name="repository">Repositório</string>
+    <string name="repository_hint">https://github.com/...</string>
+    <string name="demo_url">Demo/Live URL</string>
+    <string name="demo_url_hint">https://meuprojeto.com</string>
+    <string name="technologies">Tecnologias</string>
+    <string name="tech_hint">Ex: React, Node.js...</string>
+    <string name="suggestions">Sugestões</string>
+    <string name="publish_project">Publicar Projeto</string>
+    
+    <!-- Premium Features -->
+    <string name="premium_feature">Recurso Premium</string>
+    <string name="upgrade_to_premium">Upgrade para Premium</string>
+    <string name="unlock_premium_features">Desbloqueie recursos exclusivos e potencialize sua carreira</string>
+    <string name="premium_benefits">Benefícios Premium:</string>
+    <string name="unlimited_projects">Projetos ilimitados</string>
+    <string name="advanced_analytics">Analytics avançados</string>
+    <string name="priority_support">Suporte prioritário</string>
+    <string name="exclusive_content">Conteúdo exclusivo</string>
+    <string name="ad_free_experience">Experiência sem anúncios</string>
+    <string name="custom_themes">• Temas personalizados</string>
+    <string name="premium_badge">• Badge Premium no perfil</string>
+    <string name="upgrade_now">Atualizar Agora</string>
+    <string name="monthly_plan">Plano Mensal</string>
+    <string name="cancel_anytime">Cancele a qualquer momento</string>
+    <string name="start_free_trial">Iniciar teste grátis de 7 dias</string>
+    <string name="premium_terms">Após o período de teste, será cobrado R$ 19,90/mês. Cancele a qualquer momento.</string>
+    <string name="already_premium">Você já é Premium!</string>
+    <string name="close">Fechar</string>
+    
+    <!-- Common -->
+    <string name="cancel">Cancelar</string>
+    <string name="save">Salvar</string>
+    <string name="delete">Excluir</string>
+    <string name="edit">Editar</string>
+    <string name="share">Compartilhar</string>
+    <string name="loading">Carregando...</string>
+    <string name="error">Erro</string>
+    <string name="success">Sucesso</string>
+    
+    <!-- Validation Messages -->
+    <string name="field_required">Este campo é obrigatório</string>
+    <string name="invalid_email">Email inválido</string>
+    <string name="password_too_short">Senha deve ter pelo menos 6 caracteres</string>
+    <string name="username_too_short">Username deve ter pelo menos 3 caracteres</string>
+    <string name="login_failed">Falha no login. Verifique suas credenciais.</string>
+    <string name="register_failed">Falha no cadastro. Tente novamente.</string>
+    <string name="project_created_success">Projeto criado com sucesso!</string>
+</resources>
